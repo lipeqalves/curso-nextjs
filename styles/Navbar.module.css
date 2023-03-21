@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+
+  padding: 20px 10px;
+  background-image: url("/images/pattern.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.link {
+  color: #fff;
+  margin-right: 1em;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.link:hover {
+  color: #999;
+}

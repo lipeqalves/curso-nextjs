@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  height: 120px;
+  background-image: url("/images/pattern.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 20px 10px;
+}
